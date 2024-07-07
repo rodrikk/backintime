@@ -593,7 +593,7 @@ more than 1 GiB free space again.
 
 # Best practices
 
-## Cache folder/file exclusion {#cache-folder-file-exclusion}
+<h2 id="cache-folder-file-exclusion">Cache folder/file exclusion</h2>
 
 ### How to check the logs for folders/files to exclude 
 
